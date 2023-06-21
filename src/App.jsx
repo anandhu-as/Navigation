@@ -9,7 +9,7 @@ const App = () => {
         </Button>
       </div>
       <div>
-        <Button danger outline>
+        <Button secondary outline>
           Buy now
         </Button>
       </div>
